@@ -3,7 +3,7 @@ class alarmBot {
         this.info = msgInfo;
         this.mattermost = mattermost;
 
-        console.log("AlarmBot Initialized");
+        console.log("################# AlarmBot Initialized #################");
     }
 
     sendMessage() {
