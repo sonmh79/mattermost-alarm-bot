@@ -11,6 +11,4 @@ function getMsgInfo(ch, domain) {
     return msgInfo;
 }
 
-
-
 module.exports = getMsgInfo;
