@@ -10,4 +10,4 @@ function getDateInfo() {
   return dateInfo;
 }
 
-  module.exports = getDateInfo;
+module.exports = getDateInfo;
